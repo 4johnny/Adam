@@ -1,5 +1,5 @@
 # Adam
-iOS Bootcamp Assignment - Adam
+iOS Bootcamp Assignment - W1D2 - Adam
 
 * While loops
 * Gathering input
